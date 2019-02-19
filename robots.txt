@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: http://nova-oselia.com/sitemap.xml
+Host: nova-oselia.com
